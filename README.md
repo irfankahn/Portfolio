@@ -28,9 +28,6 @@ I possess a range of technical skills, which include:
 ## Projects
 Here are some of my recent projects:
 
-### [Dara LLC](https://drive.google.com/file/d/1yZYXHx8QRUMNpZujDrobULFk94VZ5jPM/view)
-Developed a cross-platform mobile app using React Native for smart taillight control, featuring customizable radar settings and an SOS messaging feature for fall detection.
-
 ### [Fitness Tracker](https://github.com/irfankahn/FitnessTracker)
 A full-stack application built with Python, Django, and React, allowing users to securely register and log workouts with a responsive UI.
 
